@@ -1,4 +1,4 @@
-# Hi, I'm John 👋
+# Hi, I'm Holdinzz 👋
 
 I'm learning software development and currently focusing on Python, Linux, Bash, and Git.
 
